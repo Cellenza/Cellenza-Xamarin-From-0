@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+					   xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+					   x:Class="GeoTwitter.CreateTweetPage"
+             xmlns:system="clr-namespace:System;assembly=mscorlib"
+                       Title="Tweet">
+  <StackLayout>
+    <Editor Text="{Binding Message}" />
+    <Button Text="Save" Command="{Binding SendCommand}">
+      <Button.IsVisible>
+        <OnPlatform x:TypeArguments="system:Boolean" Android="true" WinPhone="false" iOS="true" />
+      </Button.IsVisible>
+    </Button>
+  </StackLayout>
+  <ContentPage.ToolbarItems>
+    <ToolbarItem Name="Save" Command="{Binding SendCommand}" />
+  </ContentPage.ToolbarItems>
+</ContentPage>

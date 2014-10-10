@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+					   xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	    xmlns:vm="clr-namespace:GeoTwitter.VM;assembly=GeoTwitter"
+				   x:Class="GeoTwitter.TweetsPage"
+                       Title="Tweets">
+  <ContentPage.BindingContext>
+    <vm:TweetsViewModel />
+  </ContentPage.BindingContext>
+  <ListView x:name="tweetsList"
+              ItemsSource="{Binding Tweets}">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <ViewCell.View>
+                      <StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                          <Label Text="{Binding Text}" />
+                          <Label Text="{Binding Date}" />
+                          <Label Text="{Binding User}" />
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                          <Label Text="{Binding TwitterPosition.Longitude}" />
+                          <Label Text=" " />
+                          <Label Text="{Binding TwitterPosition.Latitude}" />
+                        </StackLayout>
+                      </StackLayout>
+                    </ViewCell.View>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>

@@ -1,0 +1,12 @@
+C:\Users\plorieul\Downloads\prezxamarin-master\prezxamarin-master\exemples\GeoTwitter\GeoTwitter\GeoTwitter\bin\Debug\GeoTwitter.dll
+C:\Users\plorieul\Downloads\prezxamarin-master\prezxamarin-master\exemples\GeoTwitter\GeoTwitter\GeoTwitter\bin\Debug\GeoTwitter.pdb
+C:\Users\plorieul\Downloads\prezxamarin-master\prezxamarin-master\exemples\GeoTwitter\GeoTwitter\GeoTwitter\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\plorieul\Downloads\prezxamarin-master\prezxamarin-master\exemples\GeoTwitter\GeoTwitter\GeoTwitter\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\plorieul\Downloads\prezxamarin-master\prezxamarin-master\exemples\GeoTwitter\GeoTwitter\GeoTwitter\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\plorieul\Downloads\prezxamarin-master\prezxamarin-master\exemples\GeoTwitter\GeoTwitter\GeoTwitter\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\plorieul\Downloads\prezxamarin-master\prezxamarin-master\exemples\GeoTwitter\GeoTwitter\GeoTwitter\obj\Debug\GeoTwitter.csprojResolveAssemblyReference.cache
+C:\Users\plorieul\Downloads\prezxamarin-master\prezxamarin-master\exemples\GeoTwitter\GeoTwitter\GeoTwitter\obj\Debug\MainTabbedPage.xaml.g.cs
+C:\Users\plorieul\Downloads\prezxamarin-master\prezxamarin-master\exemples\GeoTwitter\GeoTwitter\GeoTwitter\obj\Debug\TweetsPage.xaml.g.cs
+C:\Users\plorieul\Downloads\prezxamarin-master\prezxamarin-master\exemples\GeoTwitter\GeoTwitter\GeoTwitter\obj\Debug\CreateTweetPage.xaml.g.cs
+C:\Users\plorieul\Downloads\prezxamarin-master\prezxamarin-master\exemples\GeoTwitter\GeoTwitter\GeoTwitter\obj\Debug\GeoTwitter.dll
+C:\Users\plorieul\Downloads\prezxamarin-master\prezxamarin-master\exemples\GeoTwitter\GeoTwitter\GeoTwitter\obj\Debug\GeoTwitter.pdb
