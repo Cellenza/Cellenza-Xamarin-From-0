@@ -1,0 +1,2 @@
+Android.ContactListAdapter;android.ContactListAdapter
+Android.MainActivity;android.MainActivity

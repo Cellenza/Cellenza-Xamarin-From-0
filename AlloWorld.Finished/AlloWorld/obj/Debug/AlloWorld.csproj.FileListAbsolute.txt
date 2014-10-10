@@ -1,0 +1,5 @@
+c:\users\lionel\documents\visual studio 2013\Projects\AlloWorld\AlloWorld\bin\Debug\AlloWorld.dll
+c:\users\lionel\documents\visual studio 2013\Projects\AlloWorld\AlloWorld\bin\Debug\AlloWorld.pdb
+c:\users\lionel\documents\visual studio 2013\Projects\AlloWorld\AlloWorld\obj\Debug\AlloWorld.csprojResolveAssemblyReference.cache
+c:\users\lionel\documents\visual studio 2013\Projects\AlloWorld\AlloWorld\obj\Debug\AlloWorld.dll
+c:\users\lionel\documents\visual studio 2013\Projects\AlloWorld\AlloWorld\obj\Debug\AlloWorld.pdb
